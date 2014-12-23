@@ -1,0 +1,59 @@
+/* 
+  Localizable.strings
+  Muq
+
+  Created by Sergey Petrov on 1/27/14.
+  Copyright (c) 2014 supudo.net. All rights reserved.
+*/
+
+"AppTitle" = "Muq";
+
+"FetchingTracks" = "Fetching music info...";
+"ShareTitle" = "Share";
+"Oops" = "Oops!";
+"NoMusic" = "You don't have music.\nWhy, oh why...";
+
+"UI.Error" = "Error";
+"UI.OK" = "OK";
+"UI.YES" = "Yes";
+"UI.NO" = "No";
+"UI.Discard" = "Discard";
+"UI.NoInternetError" = "No Internet connection available.";
+"UI.StartAgain" = "Start Again";
+"UI.Cancel" = "Cancel";
+
+"TimesUp" = "Time is up!";
+"CorrectAnswer" = "Correct!";
+"IncorrectAnswer" = "Wrong!";
+"MaxTries" = "You tried {T} times.\nPlaying next track...";
+"QuizStatus" = "Track #{T1} - {T2} : {T3}";
+"Randomizing" = "Randomizing...";
+"Settings" = "Settings";
+"SettingsMaxTries" = "Maximum Tries";
+"SettingsTotalQ" = "Quiz Tracks";
+"SettingsDifficultyShortArtwork" = "Show Artwork";
+"SettingsDifficultyShortArtist" = "Show Artist";
+"WinsLoses" = "Wins {T1} : Losses {T2}";
+"FinishTitleSuccess" = "Win!";
+"FinishTitleFail" = "Loose!";
+"FinishMessageSuccess" = "Congratulations!\nYou know your music.";
+"FinishMessageFail" = "Try to learn your music next time.";
+"Statistics" = "Statistics";
+
+"Share" = "Share Muq with friends";
+"ShareTitle" = "Share Muq";
+"ShareTitleShort" = "Share";
+"TitleFacebook" = "Facebook";
+"TitleTwitter" = "Twitter";
+"TitleEmail" = "Email";
+"FacebookMessage" = "Muq - do you know your music? {URL} #muqapp";
+"TwitterMessage" = "Muq - do you know your music? {URL} #muqapp";
+"FacebookNoAccount" = "No Facebook account setup.\nPlease, configure your Settings.";
+"TwitterNoAccount" = "No Twitter account setup.\nPlease, configure your Settings.";
+
+"TitleFacebook" = "Facebook";
+"TitleTwitter" = "Twitter";
+"TitleEmail" = "Email";
+"Email.Subject" = "Muq-U!";
+"Email.Body" = "Check out my score - {T}!\n\n<br /><br />Made with Muq {URL}\n\n<br /><br />";
+"Email.InAppEmailCantSend" = "There is no email account configured on this device.";
